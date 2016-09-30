@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5884534F-8C55-47DC-9F7F-DE3F1DE324A5}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.WebViewTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3A60F4B5-4629-44B9-9471-CACA3A68AF2A" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebViewTest/WebViewPage.cs">
+    <Files>
+      <File FileName="WebViewTest/WebViewPage.cs" Line="65" Column="6" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="WebViewTest/WebViewTest.cs" Line="11" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
